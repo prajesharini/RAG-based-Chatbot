@@ -1,16 +1,16 @@
-🤖 RAG-Based Chatbot
+## 🤖 RAG-Based Chatbot
 
 An intelligent chatbot application that utilizes **Retrieval-Augmented Generation (RAG)** to provide accurate, context-aware answers from uploaded documents or website content.
 
 ---
 
-🧩 Overview
+## 🧩 Overview
 
 This project demonstrates a robust implementation of the RAG architecture, combining **document retrieval** with **large language model (LLM) generation** to deliver high-quality responses to user queries. It supports both document uploads and web URL inputs for dynamic information sourcing.
 
 ---
 
-🔧 Tech Stack
+## 🔧 Tech Stack
 
 - **Language**: Python  
 - **Frameworks**: Streamlit / Gradio  
@@ -20,7 +20,7 @@ This project demonstrates a robust implementation of the RAG architecture, combi
 
 ---
 
-✅ Key Features
+## ✅ Key Features
 
 - Upload and process documents (`.pdf`, `.txt`, `.docx`)
 - Ingest and extract data from website URLs
@@ -30,7 +30,7 @@ This project demonstrates a robust implementation of the RAG architecture, combi
 
 ---
 
- ⚙️ Getting Started
+## ⚙️ Getting Started
 
 Clone the repository:
 ```bash
